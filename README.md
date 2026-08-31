@@ -9,12 +9,12 @@
 |---|---|
 | 建立型 | Abstract Factory、Builder、Factory Method、Prototype、Singleton |
 | 結構型 | Adapter、Bridge、Composite、Decorator、Facade、Flyweight、Proxy |
-| 行為型 | Chain of Responsibility、Command、Iterator、Mediator、Memento、Observer、State、Strategy、Template Method、Visitor |
+| 行為型 | Chain of Responsibility、Command、Interpreter、Iterator、Mediator、Memento、Observer、State、Strategy、Template Method、Visitor |
 
 ## 檔案
 
 - `docs/patterns.md`：中文觀念、適用時機、原創生活化例子
-- `examples/design_patterns_demo.cpp`：可編譯的 C++17 範例
+- `examples/`：23 個設計模式各自一份 C++17 範例
 
 ## 學習建議
 
