@@ -15,9 +15,3 @@
 
 - `docs/patterns.md`：中文觀念、適用時機、原創生活化例子
 - `examples/`：23 個設計模式各自一份 C++17 範例
-
-## 學習建議
-
-1. 先讀 `docs/patterns.md` 的「一句話」與「適合用在」。
-2. 再看 `examples/design_patterns_demo.cpp` 對應 namespace。
-3. 嘗試把範例換成自己的專案情境，例如儀器控制、報表分析、UI 流程或資料轉換。
